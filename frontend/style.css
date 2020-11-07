@@ -1,0 +1,38 @@
+html,
+body {
+    height: 100%;
+}
+
+.urldiv {
+    background-color: #7952b3;
+    color: #ffffff;
+    width: 20%;
+    padding: 10px;
+    margin: 0;
+}
+
+.routesdiv {
+    background-color: #e7eceb;
+    width: 30%;
+    font-size: small;
+}
+
+.routedetailsdiv {
+    background-color: #e7eceb;
+    width: 50%;
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.tbcontainer {
+    max-height: 700px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+}
+
+.table-scrollable {
+    margin: 1px;
+    padding: 0;
+}
